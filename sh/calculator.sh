@@ -3,7 +3,7 @@
 #This is a simple script to calculate two numbers.
 
 # Taking  user input
-
+echo "kojja nakodakallara mirunu dengeyandi ehey sullagalu"
 echo "Enter two numbers: "
 read a
 read b
